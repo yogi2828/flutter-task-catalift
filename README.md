@@ -1,16 +1,11 @@
-# flutter_task_catalift
+# Catalift Developer Task
 
-A new Flutter project.
+Welcome to the official task repository for candidates applying to join the Catalift development team.
 
-## Getting Started
+## 🎯 Task Objective
 
-This project is a starting point for a Flutter application.
+Your task is to **replicate a mobile app screen** based on the design files we’ve shared with you via email. This will help us assess your development skills, code structure, and UI implementation capabilities.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+![Screenshot_1746687332](https://github.com/user-attachments/assets/65a748ef-244d-43ff-958d-1a424346250c)
+![Screenshot_1746687098](https://github.com/user-attachments/assets/1a644533-2c5e-4f02-9f05-636bdecb6c7f)
